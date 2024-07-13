@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://idg.net.ua/blog/wp-content/uploads/radial-gradient-top-left.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.all {
+  display: flex;
+   justify-content: center;
+
+}
+
+.com {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 300px;
+  justify-content: center;
+background-attachment: fixed;
+
+}
+
+.com input {
+  padding: 5px;
+  border: 1px;
+}
+
+ul li {
+  border: 1px solid black;
+  list-style: none;
+  margin-top: 25px;
+  padding: 20px;
+  background-color: yellow;
+}
+.avatar {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-right: 10px;
+}

@@ -1,0 +1,22 @@
+p{
+    color: grey;
+    margin-bottom: -1px;
+}
+select {
+    border: none;
+    width: 122px;
+}
+.num-block{
+    margin-top: 10px;
+    padding: 6px;
+    border: 1px solid grey;
+    width: 210px;
+}
+.ph-code {
+    pointer-events: none;
+    border: none;
+    width: 30px;
+}
+.ph-put {
+    border: none;
+}
