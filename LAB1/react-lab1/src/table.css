@@ -1,0 +1,12 @@
+table , tr ,td ,th {
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.plus {
+    color: green;
+}
+.minus {
+    color: red;
+}
